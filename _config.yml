@@ -1,6 +1,6 @@
 name: WELCOME DIVINE INTELLIGENCE
 favicon: null
-layout_spectrum: 0.15023273159749806
+layout_spectrum: 0.2591
 typography_spectrum: 0
 title: WELCOME DIVINE INTELLIGENCE - A philosophical research blog
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#bd532c'
     - '#ee7139'
-  brandStrength: 0.9222695315256715
+  brandStrength: 1
   lightness: 0.45931513141840696
   saturation: 0.1339303650893271
   rhythmicContrast: 0.36502608144655824
