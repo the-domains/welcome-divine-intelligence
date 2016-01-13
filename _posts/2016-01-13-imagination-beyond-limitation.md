@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T14:06:11.131Z'
-dateModified: '2016-01-13T14:06:05.176Z'
+datePublished: '2016-01-13T14:08:15.437Z'
+dateModified: '2016-01-13T14:08:10.210Z'
 title: Imagination beyond limitation
 author: []
+sourcePath: _posts/2016-01-13-imagination-beyond-limitation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-imagination-beyond-limitation.md
-published: true
 url: imagination-beyond-limitation/index.html
 _type: Article
 
@@ -37,4 +37,5 @@ Lügennase und Humty-Dumty von der Mauer. Ein Sack Reis in China. Die
 gemeine Zaunwinde den schlafenden Zierstrauch. Kein Prinz zum 
 Wachküssen.
 
-Ein Mitt-Tag, Woch, im Januar.
+Ein Mitt.   
+Tag, Woch, im Januar
